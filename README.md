@@ -47,15 +47,15 @@ A técnica segue este padrão:
 
 1. Clone o repositório
 
-git clone https://github.com/biiel19silva/Temporizador_tecnica_pomodoro
+ git clone https://github.com/biiel19silva/Temporizador_tecnica_pomodoro
 
 2. Acesse a pasta
 
-cd Temporizador_tecnica_pomodoro
+ cd Temporizador_tecnica_pomodoro
 
 3. Execute o programa
 
-python main.py
+ python main.py
 
 ⚙️ Pré-requisitos
 Python 3 instalado
