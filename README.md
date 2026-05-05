@@ -71,4 +71,5 @@ O app possui uma interface simples com:
 - Salvar histórico de sessões 📊
 
 👨‍💻 Autor
+
 Desenvolvido por Gabriel de Jesus Silva
