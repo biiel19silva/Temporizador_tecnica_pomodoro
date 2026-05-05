@@ -41,21 +41,15 @@ A técnica segue este padrão:
 
  ├── main.py
  
- └── tomato.png
+ ├── tomato.png
  
 ▶️ Como executar o projeto
 
-1. Clone o repositório
+1. Clone o repositório: git clone https://github.com/biiel19silva/Temporizador_tecnica_pomodoro
 
- git clone https://github.com/biiel19silva/Temporizador_tecnica_pomodoro
+2. Acesse a pasta: cd Temporizador_tecnica_pomodoro
 
-2. Acesse a pasta
-
- cd Temporizador_tecnica_pomodoro
-
-3. Execute o programa
-
- python main.py
+3. Execute o programa: python main.py
 
 ⚙️ Pré-requisitos
 Python 3 instalado
