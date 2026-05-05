@@ -38,18 +38,23 @@ A técnica segue este padrão:
 📂 Estrutura do projeto
 
 📁 Temporizador_tecnica_pomodoro
+
  ├── main.py
+ 
  └── tomato.png
  
 ▶️ Como executar o projeto
 
 1. Clone o repositório
+
 git clone https://github.com/biiel19silva/Temporizador_tecnica_pomodoro
 
 2. Acesse a pasta
+
 cd Temporizador_tecnica_pomodoro
 
 3. Execute o programa
+
 python main.py
 
 ⚙️ Pré-requisitos
